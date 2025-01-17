@@ -59,6 +59,8 @@ This section covers defining, compiling, and training the Generative Adversarial
 - Ensure the dataset is properly downloaded before running the GAN training.
 
 ---
+![IMAGE](https://github.com/user-attachments/assets/4a5a71ea-dc30-44f8-97ce-fda78915a82a)
+
 
 **Author:** [Sumit Modanwal]\
 **Date:** [17 January 2025]
